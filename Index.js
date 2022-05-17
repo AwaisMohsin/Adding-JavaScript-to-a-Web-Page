@@ -1,0 +1,1 @@
+alert("This is alert Message"); //Its better to add semicolon at the end of anything
